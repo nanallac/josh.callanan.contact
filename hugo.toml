@@ -1,0 +1,4 @@
+baseURL = 'https://josh.callanan.contact/'
+languageCode = 'en-au'
+title = 'Josh Callanan'
+theme = 'ananke'
